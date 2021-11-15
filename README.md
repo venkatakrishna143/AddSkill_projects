@@ -1,2 +1,2 @@
-# E-comm_front-end
-An UI for e-comm project
+Add Skill  --Projects 
+Full stack(MERN) is used to create projects
