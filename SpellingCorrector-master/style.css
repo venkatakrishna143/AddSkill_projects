@@ -1,0 +1,6 @@
+body { 
+    background-image: url('logo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left bottom; 
+  }
